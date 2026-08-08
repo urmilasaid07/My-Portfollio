@@ -48,13 +48,13 @@ git clone YOUR_GITHUB_REPOSITORY_LINK
 ```
 
 2. Open the project folder.
-3. Open `index.html` in your browser.
+3. Open `portfollio.html` in your browser.
 
 ### Option 2: Using VS Code
 
 1. Open the project folder in **Visual Studio Code**.
 2. Install the **Live Server** extension.
-3. Right-click on `index.html`.
+3. Right-click on `portfollio.html`.
 4. Select **Open with Live Server**.
 
 ## 📱 Responsive Design
